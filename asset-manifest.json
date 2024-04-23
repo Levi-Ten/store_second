@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/store_second/static/css/main.c40c4ae0.css",
+    "main.js": "/store_second/static/js/main.ad9d9693.js",
+    "static/media/girl.png": "/store_second/static/media/girl.bd4bb95eb95386ab0a75.png",
+    "static/media/basket.png": "/store_second/static/media/basket.94eba576d9a7cb76c1e9.png",
+    "index.html": "/store_second/index.html",
+    "main.c40c4ae0.css.map": "/store_second/static/css/main.c40c4ae0.css.map",
+    "main.ad9d9693.js.map": "/store_second/static/js/main.ad9d9693.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c40c4ae0.css",
+    "static/js/main.ad9d9693.js"
+  ]
+}
