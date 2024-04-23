@@ -1,0 +1,57 @@
+.basket {
+    background-image: url(../images/basket.png);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 500px;
+    width: 100%;
+  }
+  .item {
+    padding: 10px 20px;
+  }
+  .cart__product {
+    border: 1px solid rgba(43, 63, 80, 0.13);
+    display: flex;
+    margin: 10px 0;
+    max-width: 50%;
+    padding: 10px;
+  }
+  .details {
+    margin-left: 20px;
+    padding-top: 20px;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    &__btn {
+      background-color: hsla(93, 82%, 83%, 0.726);
+      border: 1px solid hsla(94, 48%, 72%, 0.726);
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 1.5rem;
+      margin-right: 10px;
+      padding: 0 15px;
+      text-align: center;
+    }
+  }
+  
+  .price {
+    font-size: 1.5rem;
+    font-weight: 600;
+  }
+  .qty {
+    border: 1px solid rgba(43, 63, 80, .13);
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 3px 15px;
+    width: fit-content;
+  }
+  .trash__basket {
+    color: red;
+    cursor: pointer;
+  }
+  .fa-trash-can{
+    width: 32px;
+    height: 32px;
+  }
+  
