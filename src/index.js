@@ -6,8 +6,8 @@ import "./scss/style.scss";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-   {/* <p>Hello</p> */}
-   <Store></Store>
+   <p>Hello</p>
+   {/* <Store></Store> */}
   </React.StrictMode>
 );
 
